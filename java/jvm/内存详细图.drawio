@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="pa-y5Pqf12-yZqj1ofwb">
-    <mxGraphModel>
+    <mxGraphModel dx="1436" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="350" width="360" x="80" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="堆" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="对象" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="运行时常量池" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数组" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="静态变量" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="350" width="360" x="70" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="方法区" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="类元信息" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

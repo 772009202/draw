@@ -31,6 +31,12 @@
         <mxCell id="YKFSGiqqLtrm5fDygfdj-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="类元信息" vertex="1">
           <mxGeometry height="60" width="120" x="110" y="650" as="geometry" />
         </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="运行时常量池" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="YKFSGiqqLtrm5fDygfdj-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="git缓存代码" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="840" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

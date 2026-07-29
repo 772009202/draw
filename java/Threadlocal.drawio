@@ -70,8 +70,11 @@
             <mxPoint x="1120" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KH1-QFvM2jugtEq4DzWQ-16" edge="1" parent="1" source="KH1-QFvM2jugtEq4DzWQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="KH1-QFvM2jugtEq4DzWQ-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KH1-QFvM2jugtEq4DzWQ-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="349.5" as="sourcePoint" />
+            <mxPoint x="1620" y="349.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KH1-QFvM2jugtEq4DzWQ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ThreadLocal" vertex="1">
           <mxGeometry height="60" width="115" x="1285" y="320" as="geometry" />
@@ -114,6 +117,12 @@
         </mxCell>
         <mxCell id="KH1-QFvM2jugtEq4DzWQ-21" edge="1" parent="1" source="KH1-QFvM2jugtEq4DzWQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="KH1-QFvM2jugtEq4DzWQ-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KH1-QFvM2jugtEq4DzWQ-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="X" vertex="1">
+          <mxGeometry height="30" width="60" x="1480" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KH1-QFvM2jugtEq4DzWQ-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="X" vertex="1">
+          <mxGeometry height="30" width="60" x="1755" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
